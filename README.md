@@ -79,39 +79,6 @@ Week 13+   →   Advanced Topics + Interview Prep
 
 ---
 
-## 📅 Daily Log
-
-<details open>
-<summary><b>Week 1 — Language Basics + Maths for DSA</b></summary>
-
-| Day | Topic | Notes | Status |
-|-----|-------|-------|--------|
-| Day -1 | Prep Day — How Java Works + Flow of a Program | [📄 Notes](./week-01-fundamentals/day-minus1-notes.md) | ✅ Done |
-| Day 1 | Introduction to Programming — Types of Languages, Memory Management | [📄 Notes](./week-01-fundamentals/day1.md) | ✅ Done |
-| Day 2 | Writing Your First Programs | [📄 Notes](./week-01-fundamentals/day2.md) | 🔜 Upcoming |
-| Day 3 | Variables, Data Types & Operators | Coming soon | 🔜 |
-| Day 4 | Conditionals & Loops | Coming soon | 🔜 |
-| Day 5 | Functions & Recursion Basics | Coming soon | 🔜 |
-| Day 6 | Maths for DSA — Part 1 | Coming soon | 🔜 |
-| Day 7 | Maths for DSA — Part 2 | Coming soon | 🔜 |
-
-</details>
-
-<details>
-<summary><b>Week 2 — Arrays</b></summary>
-
-*Coming soon — unlocks after Week 1 is complete.*
-
-</details>
-
-<details>
-<summary><b>Week 3 — Strings</b></summary>
-
-*Coming soon.*
-
-</details>
-
----
 
 ## 🚀 How to Use This Repo
 
