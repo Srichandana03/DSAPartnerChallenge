@@ -162,15 +162,15 @@ Keep taking numbers as input till the user enters `x`. After that, print the sum
 
 ## ✅ Checklist Before You Sleep
 
-- [ ] Watched both videos fully
-- [ ] I can name at least 3 types of programming languages and give an example of each
-- [ ] I understand the difference between static and dynamic languages
-- [ ] I know where type errors are caught in each (compile time vs runtime)
-- [ ] I can explain the difference between Stack and Heap memory
-- [ ] I know why objects use reference variables and primitives don't
-- [ ] I understand the d1 = d2 reference trap (both point to same object)
-- [ ] I know what Garbage Collection is and which languages have it
-- [ ] I can trace the flow of a simple program using the Call Stack mental model
+- [X] Watched both videos fully
+- [X] I can name at least 3 types of programming languages and give an example of each
+- [X] I understand the difference between static and dynamic languages
+- [X] I know where type errors are caught in each (compile time vs runtime)
+- [X] I can explain the difference between Stack and Heap memory
+- [X] I know why objects use reference variables and primitives don't
+- [X] I understand the d1 = d2 reference trap (both point to same object)
+- [X] I know what Garbage Collection is and which languages have it
+- [X] I can trace the flow of a simple program using the Call Stack mental model
 
 ---
 

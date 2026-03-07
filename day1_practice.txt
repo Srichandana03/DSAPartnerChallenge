@@ -1,0 +1,70 @@
+-------------1.Leap Year Check-------------
+
+START
+READ  Year
+IF ((Year%4==0 && Year%100!=0) || (Year%400==0))
+    PRINT "LEAP YEAR"
+ELSE
+    PRINT "NOT LEAP YEAR"
+END
+
+--------------2.Sum of two numbers---------------
+
+START
+READ NUMBER1
+READ NUMBER2
+SUM=NUMBER1+NUMBER2
+PRINT SUM
+END
+
+---------------3.Multiplication table---------------
+
+START
+READ number
+FOR i = 1 TO 10
+    result = number * i
+    PRINT result
+END FOR
+END
+
+---------------4.HCF and LCM----------------------
+
+START
+READ a
+READ b
+
+temp1 = a
+temp2 = b
+
+WHILE b != 0
+    remainder = a % b
+    a = b
+    b = remainder
+END WHILE
+
+HCF = a
+LCM = (temp1 * temp2) / HCF
+PRINT HCF
+PRINT LCM
+END
+
+---------------5.Sum until "x"------------------
+
+START 
+sum = 0
+
+REPEAT
+    READ input
+
+    IF input == 'x'
+        STOP
+    ELSE
+        sum = sum + input
+END REPEAT
+
+PRINT sum
+END
+
+
+
+
