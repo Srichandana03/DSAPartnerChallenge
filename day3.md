@@ -125,14 +125,14 @@ Solve in Java (or your language). Push solutions to your fork.
 
 ## ✅ Checklist Before You Sleep
 
-- [ ] I understand how if / else if / else flows
-- [ ] I know the difference between `=` and `==`
-- [ ] I can write a ternary operator
-- [ ] I know when to use switch vs if-else
-- [ ] I know the for loop structure: init ; condition ; update
-- [ ] I understand while vs do-while
-- [ ] I know what `break` and `continue` do
-- [ ] Solved at least 6 of the 10 practice questions
+- [x] I understand how if / else if / else flows
+- [x] I know the difference between `=` and `==`
+- [x] I can write a ternary operator
+- [x] I know when to use switch vs if-else
+- [x] I know the for loop structure: init ; condition ; update
+- [x] I understand while vs do-while
+- [x] I know what `break` and `continue` do
+- [x] Solved at least 6 of the 10 practice questions
 
 ---
 
